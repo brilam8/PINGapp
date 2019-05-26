@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">PING!</string>
+    <string name="fortnite_icon">Switch to Fortnite servers!</string>
+    <string name="league_icon">Switch to League of Legends servers!</string>
+    <string name="pubg_icon">Switch to PUBG servers!</string>
+    <string name="settings_icon">Change your preferences!</string>
+    <string name="welcomeSign">PING!</string>
+    <string name="introduction">Check your ping in the touch of a button!</string>
+    <string name="get_started">►Get Started◄</string>
+    <string name="started1">Click on any of the game icons on the navigation bar above, then click on the server that you want to ping.</string>
+    <string name="started2">Click the pencil and paper icon on the navigation bar above to ping specific ip addresses or sites.</string>
+    <string name="started4">Ensure that you are connected to the same wifi network (ethernet/wireless) that you will be using to play/connect.</string>
+    <string name="started3">Both the server lists and the navigation bar are scrollable. You can configure some options in the settings page (gears icon)!</string>
+    <string name="test_pingstats">► Ping Statistics for North America\n\u2022 3 pings transmitted\n\u2022 3 pings received\n\u2022 0% packet loss\n\u2022 min : 30 ms, avg : 85 ms, max : 160 ms\n\u2022 Full ping results: 52, 62, 176, 25, 71</string>
+    <string name="pingstats">► Ping Statistics for %1$s\n\u2022 %2$d pings transmitted\n\u2022 %3$d pings received\n\u2022 %4$d%% packet loss\n\u2022 min : %5$s, avg : %6$s, max : %7$s\n\u2022 Full ping results: %8$s</string>
+    <string name="pingstatsBugged">Something went wrong while pinging %1$s.\nWe were unable to ping the host.\nThis may be due to issues with the host or a bug with the code.\n\nPlease check your internet connection or try again, if it still does not work, please report the issue straight to the app creator (check store page for contact details).</string>
+
+    <string name="notConnectedToANY">WARNING! You are not connected to a wifi network nor a mobile data connection! Ensure that you are connected to a wifi network that you will be playing/connecting to hosts on for the most accurate results. You can turn this warning off in settings</string>
+    <string name="connectedToMobile">WARNING! You are currently using your mobile data to ping! Ensure that you are connected to a wifi network that you will be playing/connecting to hosts on for the most accurate results. (If you are on a paid plan, data may be used) You can turn this warning off in settings</string>
+    <string name="tipToClose">Tap your screen to close the results!</string>
+
+    <string name="customPingHost">►Ping statistics for %1$s◄</string>
+    <string name="customPingTransmit">\u2022 %1$d  pings transmitted</string>
+    <string name="customPingReceived">\u2022 %1$d pings received</string>
+    <string name="customPingPacketLoss">\u2022 %1$d%% packet loss</string>
+    <string name="customPingAvg">\u2022 avg : %1$s</string>
+    <string name="customPingMin">\u2022 min : %1$s</string>
+    <string name="customPingMax">\u2022 max : %1$s</string>
+    <string name="customPingFullPingResults">\u2022 Full ping results: %1$s</string>
+
+
+    <string name="pref_display_category">"Display"</string>
+    <string name="pref_function_category">"Pinging"</string>
+    <string name="pref_support_category">"Help Support PING!"</string>
+
+
+    <string name="pref_numPings_default">"5"</string>
+    <string name="pref_summary_numPings">"The app will do %1$s before posting the ping results."</string>
+    <string name="pref_title_numPings">"Number of Pings"</string>
+    <string name="pref_title_animatedBG">"Animated Backgrounds"</string>
+    <string name="pref_summaryON_animatedBG">"Animated backgrounds will be used for each game."</string>
+    <string name="pref_summaryOFF_animatedBG">"Animated backgrounds will not be used for each game. Instead, a still image will serve as the background."</string>
+    <string name="pref_title_displayWarnings">"Display Connectivity Warnings"</string>
+    <string name="pref_summaryON_displayWarnings">"Will display appropriate warnings when pinging on/off wifi connections and mobile connections."</string>
+    <string name="pref_summaryOFF_displayWarnings">"No warnings will be displayed even if attempting to ping on/off wifi and mobile connections."</string>
+
+    <string name="rateButtonTitle">"Rate PING! on the Google Play Store"</string>
+    <string name="rateButtonSumm">"If you are enjoying this app, please take a moment to rate this app. It won't take more than a minute. Thank you for your support!"</string>
+    <string name="rateButtonText">"If you are enjoying this app, please take a moment to rate this app. It won't take more than a minute. Thank you for your support!"</string>
+
+    <string name="preference_file_key">"com.bigboiapps.pingchecker.PREFERENCE_FILE_KEY"</string>
+    <string-array name="pingList">
+        <item>1 ping</item>
+        <item>2 pings</item>
+        <item>3 pings</item>
+        <item>4 pings</item>
+        <item>5 pings</item>
+        <item>6 pings</item>
+        <item>7 pings</item>
+        <item>8 pings</item>
+        <item>9 pings</item>
+    </string-array>
+    <string-array name="pingValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+</resources>

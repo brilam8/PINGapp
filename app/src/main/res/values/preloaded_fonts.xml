@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/acme</item>
+        <item>@font/alex_brush</item>
+        <item>@font/alfa_slab_one</item>
+        <item>@font/alike</item>
+        <item>@font/allan</item>
+        <item>@font/archivo_black</item>
+        <item>@font/bangers</item>
+        <item>@font/bowlby_one_sc</item>
+        <item>@font/bungee</item>
+        <item>@font/bungee_inline</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/holtwood_one_sc</item>
+        <item>@font/titan_one</item>
+        <item>@font/trade_winds</item>
+    </array>
+</resources>

@@ -1,0 +1,16 @@
+
+osquid:UselessImportCheck"ARemove this unused import 'android.support.constraint.Guideline'.(µà‘óùÿÿÿÿ8ÜÈ»‰Ê,
+jsquid:UselessImportCheck"ARemove this unused import 'android.preference.PreferenceManager'.(ìùÖõ8ÜÈ»‰Ê,
+|squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÛÍ¨Öıÿÿÿÿ8ÜÈ»‰Ê,
+[squid:UselessImportCheck"2Remove this unused import 'android.os.Parcelable'.(õÃÀ­8ÜÈ»‰Ê,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’ôÉÒûÿÿÿÿ8ÜÈ»‰Ê,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(×²Üù8ÜÈ»‰Ê,
+Lsquid:S1481"1Remove this unused "animatedPref" local variable.(˜¦¸/8ÜÈ»‰Ê,
+Isquid:S1481"-Remove this unused "warnings" local variable.(ü×Ì–8ÜÈ»‰Ê,
+[squid:S1854"@Remove this useless assignment to local variable "animatedPref".(˜¦¸/8ÜÈ»‰Ê,
+Xsquid:S1854"<Remove this useless assignment to local variable "warnings".(ü×Ì–8ÜÈ»‰Ê,
+\squid:UselessImportCheck".Remove this unused import 'android.os.Parcel'.(˜ÂÍóûÿÿÿÿ8ÜÈ»‰Ê,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’ôÉÒûÿÿÿÿ8ÜÈ»‰Ê,
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(–ìü8ÜÈ»‰Ê,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ƒÂ”‡8ÜÈ»‰Ê,

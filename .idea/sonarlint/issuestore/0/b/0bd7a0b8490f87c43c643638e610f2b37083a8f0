@@ -1,0 +1,11 @@
+
+Ysquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ì©ÑÛÆ,
+^squid:UselessImportCheck"0Remove this unused import 'butterknife.OnClick'.(ÔÌÓ¿ÿÿÿÿÿ8ì©ÑÛÆ,
+asquid:UselessImportCheck"3Remove this unused import 'android.text.Spannable'.(ŠÉßòúÿÿÿÿ8ì©ÑÛÆ,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®ñ’èúÿÿÿÿ8ì©ÑÛÆ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÀâÄ³üÿÿÿÿ8ì©ÑÛÆ,
+Msquid:S1068"1Remove this unused "mSeparateData" private field.(öŸå±8ì©ÑÛÆ,
+`squid:UselessImportCheck"2Remove this unused import 'android.text.Editable'.(À”áÈþÿÿÿÿ8ì©ÑÛÆ,
+^squid:UselessImportCheck"5Remove this unused import 'android.text.TextWatcher'.( š«8ì©ÑÛÆ,
+3squid:S2176"Rename this class.(ùŽÀ‚ýÿÿÿÿ8ì©ÑÛÆ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(×ƒðú8ì©ÑÛÆ,

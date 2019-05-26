@@ -1,0 +1,12 @@
+
+‹"squid:ClassVariableVisibilityCheck"SMake avgPing a static final constant or non-public and provide accessors if needed.(•ÑÌ¿ùÿÿÿÿ8ÃĞûÃ,
+‘"squid:ClassVariableVisibilityCheck"YMake pingsReceived a static final constant or non-public and provide accessors if needed.(îæÙáÿÿÿÿÿ8ÃĞûÃ,
+‹"squid:ClassVariableVisibilityCheck"SMake minPing a static final constant or non-public and provide accessors if needed.(„¿®¦ûÿÿÿÿ8ÃĞûÃ,
+†"squid:ClassVariableVisibilityCheck"SMake custom1 a static final constant or non-public and provide accessors if needed.(úÒÍ8ÃĞûÃ,
+Œ"squid:ClassVariableVisibilityCheck"YMake spannableText a static final constant or non-public and provide accessors if needed.(Üü¹8ÃĞûÃ,
+‰"squid:ClassVariableVisibilityCheck"VMake serverName a static final constant or non-public and provide accessors if needed.(€øŒÉ8ÃĞûÃ,
+Š"squid:ClassVariableVisibilityCheck"RMake bugged a static final constant or non-public and provide accessors if needed.(âı¸ûÿÿÿÿ8ÃĞûÃ,
+Œ"squid:ClassVariableVisibilityCheck"TMake pingList a static final constant or non-public and provide accessors if needed.(Îª”£üÿÿÿÿ8ÃĞûÃ,
+"squid:ClassVariableVisibilityCheck"\Make pingsTransmitted a static final constant or non-public and provide accessors if needed.(ˆŒÜŒ8ÃĞûÃ,
+Ysquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÃĞûÃ,
+‹"squid:ClassVariableVisibilityCheck"SMake maxPing a static final constant or non-public and provide accessors if needed.(ÚÏ¸ôúÿÿÿÿ8ÃĞûÃ,

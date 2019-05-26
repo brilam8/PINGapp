@@ -1,0 +1,6 @@
+
+Zsquid:UselessImportCheck"1Remove this unused import 'android.app.Activity'.(‡ÊÍÆ8Ü«ÃÇ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(·ß¶8²ŒÓ™Æ,
+fsquid:UselessImportCheck">Remove this unused import 'android.content.SharedPreferences'.(íÎÉr8²ŒÓ™Æ,
+csquid:UselessImportCheck":Remove this unused import 'android.preference.Preference'.(ÆÖ¿•8²ŒÓ™Æ,
+Isquid:S1185"(Remove this method to simply inherit it.(¨Œşÿÿÿÿ8²ŒÓ™Æ,

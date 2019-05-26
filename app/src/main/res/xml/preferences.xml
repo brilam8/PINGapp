@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <!-- default value is a boolean -->
+    <PreferenceCategory
+        android:layout_height="wrap_content"
+        android:key="pref_key_display_settings"
+        android:title="@string/pref_display_category">
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="pref_animatedBackgrounds"
+            android:summaryOff="@string/pref_summaryOFF_animatedBG"
+            android:summaryOn="@string/pref_summaryON_animatedBG"
+            android:title="@string/pref_title_animatedBG" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="pref_displayWarnings"
+            android:summaryOff="@string/pref_summaryOFF_displayWarnings"
+            android:summaryOn="@string/pref_summaryON_displayWarnings"
+            android:title="@string/pref_title_displayWarnings" />
+    </PreferenceCategory>
+    <!-- default value is a string -->
+    <PreferenceCategory
+        android:key="pref_key_function_settings"
+        android:title="@string/pref_function_category">
+        <ListPreference
+            android:defaultValue="@string/pref_numPings_default"
+            android:entries="@array/pingList"
+            android:entryValues="@array/pingValues"
+            android:key="pref_numPings"
+            android:summary="@string/pref_summary_numPings"
+            android:title="@string/pref_title_numPings" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="pref_key_support_app"
+        android:title="@string/pref_support_category">
+    <Preference
+        android:key="rateApp"
+        android:summary="@string/rateButtonSumm"
+        android:title="@string/rateButtonTitle"
+        ></Preference>
+</PreferenceCategory>
+</PreferenceScreen>

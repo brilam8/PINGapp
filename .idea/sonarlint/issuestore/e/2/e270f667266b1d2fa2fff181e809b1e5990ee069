@@ -1,0 +1,44 @@
+
+^squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8¶û¼ìÇ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¶û¼ìÇ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—»³™üÿÿÿÿ8¶û¼ìÇ,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(î´ŠØ8¶û¼ìÇ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(æ×€È8¶û¼ìÇ,
+asquid:UselessImportCheck"8Remove this unused import 'android.view.LayoutInflater'.(À¯ÑÇ8¶û¼ìÇ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(öŒ‡ßÿÿÿÿÿ8¶û¼ìÇ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ï‹æ÷8¶û¼ìÇ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(èÓúüÿÿÿÿ8¶û¼ìÇ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ëÄÇ¢8¶û¼ìÇ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½ÍÀìûÿÿÿÿ8¶û¼ìÇ,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(±¤ª¹8¶û¼ìÇ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼÷Èõşÿÿÿÿ8¶û¼ìÇ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(èÓúüÿÿÿÿ8¶û¼ìÇ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(€Ãˆúÿÿÿÿ8¶û¼ìÇ,
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(„Š†ˆ8¶û¼ìÇ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¹«ªáıÿÿÿÿ8¶û¼ìÇ,
+=squid:S1643"Use a StringBuilder instead.(ü´ıëıÿÿÿÿ8¶û¼ìÇ,
+esquid:UselessImportCheck"7Remove this unused import 'android.widget.ProgressBar'.(³ñÿŸùÿÿÿÿ8¶û¼ìÇ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ê†Š¾8¶û¼ìÇ,
+`squid:UselessImportCheck"7Remove this unused import 'android.app.ProgressDialog'.(¶ÍÔÓ8¶û¼ìÇ,
+Fsquid:S00108")Either remove or fill this block of code.(á¢–¬8¶û¼ìÇ,
+Zsquid:S1854">Remove this useless assignment to local variable "arrayPings".(¤·½ä8¶û¼ìÇ,
+…squid:S1192"dDefine a constant instead of duplicating this literal "Not Available, no pings to process." 3 times.(›êÀİúÿÿÿÿ8¶û¼ìÇ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¤ìÇøÿÿÿÿ8¶û¼ìÇ,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.( éœÇ8¶û¼ìÇ,
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚åûè8¶û¼ìÇ,
+Ksquid:S1481"/Remove this unused "arrayPings" local variable.(¤·½ä8¶û¼ìÇ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(û¿¿şÿÿÿÿ8¶û¼ìÇ,
+‚squid:S4165"gRemove this useless assignment; "pingStats" already holds the assigned value along all execution paths.(ºã8¶û¼ìÇ,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹µüù8¶û¼ìÇ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ª§õğùÿÿÿÿ8¶û¼ìÇ,
+csquid:UselessImportCheck":Remove this unused import 'android.content.res.Resources'.(ÿÃÜó8¶û¼ìÇ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Æ›¶8¶û¼ìÇ,
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ë£Ïæ8¶û¼ìÇ,
+csquid:UselessImportCheck"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ8¶û¼ìÇ,
+usquid:S1192"TDefine a constant instead of duplicating this literal "packets transmitted" 4 times.(ç¹¼Üşÿÿÿÿ8¶û¼ìÇ,

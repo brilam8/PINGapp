@@ -1,0 +1,208 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨¨æÈ8‡¯«—Ì,
+Esquid:S2140")Use "java.util.Random.nextInt()" instead.(Ïàı½8‡¯«—Ì,
+tsquid:S00116"WRename this field "Introduction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦§ÙÇ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ù‘Æùÿÿÿÿ8‡¯«—Ì,
+Jsquid:S2140")Use "java.util.Random.nextInt()" instead.(£’åÄøÿÿÿÿ8‡¯«—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‹İ†İ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ù‘Æùÿÿÿÿ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ù‘Æùÿÿÿÿ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†öÎ¬ùÿÿÿÿ8‡¯«—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½‘Ñ³8‡¯«—Ì,
+Ysquid:S1854"=Remove this useless assignment to local variable "adRequest".(˜­òŸ8‡¯«—Ì,
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ùÜY8‡¯«—Ì,
+Xsquid:S2589"7Remove this expression which always evaluates to "true"(ó±Óíøÿÿÿÿ8‡¯«—Ì,
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬«ö8‡¯«—Ì,
+hsquid:S1192"LDefine a constant instead of duplicating this literal "pubgServers" 3 times.(ì¹º8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’Êºÿÿÿÿÿ8‡¯«—Ì,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğôÊÜ8‡¯«—Ì,
+xsquid:S00116"VRename this field "get_started" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÔé°şÿÿÿÿ8‡¯«—Ì,
+Dsquid:S1125"(Remove the literal "true" boolean value.(¶8‡¯«—Ì,
+Esquid:S1905")Remove this unnecessary cast to "String".(Æë³8‡¯«—Ì,
+Jsquid:S1481"/Remove this unused "animatedBG" local variable.(“³Í	8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°£Ø×şÿÿÿÿ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(…‰ò–øÿÿÿÿ8‡¯«—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›·ó¥8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°£Ø×şÿÿÿÿ8‡¯«—Ì,
+Esquid:S2140")Use "java.util.Random.nextInt()" instead.(ß˜»Ş8‡¯«—Ì,
+osquid:S1192"NDefine a constant instead of duplicating this literal "customServers" 3 times.(Ñ¦™åúÿÿÿÿ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ä¾í²ùÿÿÿÿ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ù‘Æùÿÿÿÿ8‡¯«—Ì,
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(…ƒş8‡¯«—Ì,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(åİ¸íüÿÿÿÿ8‡¯«—Ì,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ä·šòıÿÿÿÿ8‡¯«—Ì,
+Jsquid:S2140")Use "java.util.Random.nextInt()" instead.(ˆçµÿÿÿÿÿ8‡¯«—Ì,
+\squid:S1854"@Remove this useless assignment to local variable "networkInfo2".(¼²ç™8‡¯«—Ì,
+…squid:S1192"dDefine a constant instead of duplicating this literal "Not Available, no pings to process." 4 times.(Í¹Àòüÿÿÿÿ8‡¯«—Ì,
+|squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‹£—íÿÿÿÿÿ8‡¯«—Ì,
+Dsquid:S2140")Use "java.util.Random.nextInt()" instead.(®ñè28‡¯«—Ì,
+nsquid:S1192"MDefine a constant instead of duplicating this literal "currentJSON" 10 times.(·ˆĞğıÿÿÿÿ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ù‘Æùÿÿÿÿ8‡¯«—Ì,
+msquid:S1192"QDefine a constant instead of duplicating this literal "overwatchServers" 3 times.(Åšƒò8‡¯«—Ì,
+Esquid:S2140")Use "java.util.Random.nextInt()" instead.(†ÿñŞ8‡¯«—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨¨æÈ8‡¯«—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.( ÔúÑ8‡¯«—Ì,
+Fsquid:S1181"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°£Ø×şÿÿÿÿ8‡¯«—Ì,
+jsquid:S1192"IDefine a constant instead of duplicating this literal "settings" 5 times.(®ëÓ×úÿÿÿÿ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£ˆ´éøÿÿÿÿ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°£Ø×şÿÿÿÿ8‡¯«—Ì,
+Msquid:S1481"1Remove this unused "networkInfo2" local variable.(¼²ç™8‡¯«—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½şùİ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°£Ø×şÿÿÿÿ8‡¯«—Ì,
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( ü¸æ8‡¯«—Ì,
+Jsquid:S2140")Use "java.util.Random.nextInt()" instead.(èí‰Öûÿÿÿÿ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(§¾ÑËûÿÿÿÿ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8‡¯«—Ì,
+Esquid:S2140")Use "java.util.Random.nextInt()" instead.(É­¬Ğ8‡¯«—Ì,
+tsquid:S1192"SDefine a constant instead of duplicating this literal "requests timed out" 8 times.(Ïö…îøÿÿÿÿ8‡¯«—Ì,
+Esquid:S1905")Remove this unnecessary cast to "String".(Æë³8‡¯«—Ì,
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×‹ŒÅ8‡¯«—Ì,
+Dsquid:S1125"(Remove the literal "true" boolean value.(¶8‡¯«—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨¨æÈ8‡¯«—Ì,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‡¯«—Ì,
+Jsquid:S2140")Use "java.util.Random.nextInt()" instead.(èËóÄùÿÿÿÿ8‡¯«—Ì,
+nsquid:S1192"RDefine a constant instead of duplicating this literal "welcomeVisibility" 3 times.(¶±ÉŞ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ù‘Æùÿÿÿÿ8‡¯«—Ì,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(®¡şÔ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‘Èÿüøÿÿÿÿ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¼†ûÿÿÿÿÿ8‡¯«—Ì,
+osquid:S1192"NDefine a constant instead of duplicating this literal "leagueServers" 3 times.(ÓüÁÂøÿÿÿÿ8‡¯«—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÓíØ»8‡¯«—Ì,
+tsquid:S3776"SRefactor this method to reduce its Cognitive Complexity from 126 to the 15 allowed.(©¿šùùÿÿÿÿ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(§¾ÑËûÿÿÿÿ8‡¯«—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÛƒÔ×8‡¯«—Ì,
+bsquid:S2147"FCombine this catch with the one at line 1011, which has the same body.(”ı¾8‡¯«—Ì,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ä·šòıÿÿÿÿ8‡¯«—Ì,
+Esquid:S1905")Remove this unnecessary cast to "String".(Æë³8‡¯«—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ºÙßÅ8‡¯«—Ì,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğôÊÜ8‡¯«—Ì,
+qsquid:S1192"PDefine a constant instead of duplicating this literal "fortniteServers" 3 times.(–†—Êşÿÿÿÿ8‡¯«—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½şùİ8‡¯«—Ì,
+Esquid:S2140")Use "java.util.Random.nextInt()" instead.(î‘”8‡¯«—Ì,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(±ìä±ıÿÿÿÿ8‡¯«—Ì,
+Esquid:S2140")Use "java.util.Random.nextInt()" instead.(î‘”8‡¯«—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‹åå8‡¯«—Ì,
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 86 to the 15 allowed.(†Şî½8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‘Èÿüøÿÿÿÿ8‡¯«—Ì,
+Esquid:S2140")Use "java.util.Random.nextInt()" instead.(ß˜»Ş8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‹¨ãàûÿÿÿÿ8‡¯«—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨¨æÈ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÖŞÑíşÿÿÿÿ8‡¯«—Ì,
+Isquid:S1068"-Remove this unused "DEBUG_TAG" private field.(û¥Òä8‡¯«—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾½’8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Í­£øÿÿÿÿ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(îú´şÿÿÿÿ8‡¯«—Ì,
+Jsquid:S1481".Remove this unused "adRequest" local variable.(˜­òŸ8‡¯«—Ì,
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÙÚÚ’8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ä °öüÿÿÿÿ8‡¯«—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨¨æÈ8‡¯«—Ì,
+vsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(í÷ŒY8‡¯«—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾½’8‡¯«—Ì,
+gsquid:S1192"LDefine a constant instead of duplicating this literal "csgoServers" 3 times.(¾}8‡¯«—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(İ»ñ“8‡¯«—Ì,
+Esquid:S1905")Remove this unnecessary cast to "String".(Æë³8‡¯«—Ì,
+Jsquid:S2140")Use "java.util.Random.nextInt()" instead.(ˆçµÿÿÿÿÿ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(º©•åûÿÿÿÿ8‡¯«—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(İüì™8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Îâíáşÿÿÿÿ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ëˆ¢øúÿÿÿÿ8‡¯«—Ì,
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ìó—8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Îâíáşÿÿÿÿ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ö´§Äşÿÿÿÿ8‡¯«—Ì,
+Dsquid:S2140")Use "java.util.Random.nextInt()" instead.(®ñè28‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾Óœıÿÿÿÿ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ü–ôèøÿÿÿÿ8‡¯«—Ì,
+Jsquid:S2140")Use "java.util.Random.nextInt()" instead.(èËóÄùÿÿÿÿ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(µç‡æüÿÿÿÿ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8‡¯«—Ì,
+Jsquid:S2140")Use "java.util.Random.nextInt()" instead.(èí‰Öûÿÿÿÿ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°£Ø×şÿÿÿÿ8‡¯«—Ì,
+Esquid:S2140")Use "java.util.Random.nextInt()" instead.(ìÚô¯8‡¯«—Ì,
+Esquid:S1905")Remove this unnecessary cast to "String".(Æë³8‡¯«—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¡‡—²8‡¯«—Ì,
+Ysquid:S1854">Remove this useless assignment to local variable "animatedBG".(“³Í	8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¸¡Ó¨ıÿÿÿÿ8‡¯«—Ì,
+hsquid:S1192"LDefine a constant instead of duplicating this literal "dotaServers" 3 times.(ë¡±û8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(î˜¹èÿÿÿÿÿ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8‡¯«—Ì,
+Esquid:S1905")Remove this unnecessary cast to "String".(Æë³8‡¯«—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨¨æÈ8‡¯«—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8‡¯«—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Å¢ç8‡¯«—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(š¨»8‡¯«—Ì,
+Jsquid:S2140")Use "java.util.Random.nextInt()" instead.(Êëåşÿÿÿÿ8‡¯«—Ì,
+U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ºÖ8Ğ¯—Ì,
+msquid:S1192"QDefine a constant instead of duplicating this literal "SUGGESTIONS_LIST" 3 times.(®ğÙ8Ğ¯—Ì,
+’squid:S1192"vDefine a constant instead of duplicating this literal "Ping cancelled because you moved to a different page!" 8 times.(Üëí 8Ğ¯—Ì,
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(óÛşÄ8Ğ¯—Ì,
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(İ•È¾ùÿÿÿÿ8Ğ¯—Ì,
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æáß8Ğ¯—Ì,
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(İ•È¾ùÿÿÿÿ8Ğ¯—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(š¨»8Ğ¯—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(“’ªÕøÿÿÿÿ8Ğ¯—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(å«Âãûÿÿÿÿ8Ğ¯—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¦“şÀûÿÿÿÿ8Ğ¯—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ù‘Æùÿÿÿÿ8Ğ¯—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨¨æÈ8Ğ¯—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8Ğ¯—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°£Ø×şÿÿÿÿ8Ğ¯—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ã¥ëùùÿÿÿÿ8Ğ¯—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(“Ù—“8Ğ¯—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ğ¹ëúúÿÿÿÿ8Ğ¯—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8Ğ¯—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°£Ø×şÿÿÿÿ8Ğ¯—Ì,
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‰ƒ•D8Ğ¯—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(–„»äşÿÿÿÿ8Ğ¯—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8Ğ¯—Ì,
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(³ğõc8Ğ¯—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ì˜Â“üÿÿÿÿ8Ğ¯—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¿´­•úÿÿÿÿ8Ğ¯—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8Ğ¯—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(´èÆÀüÿÿÿÿ8Ğ¯—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÃÊàßÿÿÿÿÿ8Ğ¯—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¿ä·Åúÿÿÿÿ8Ğ¯—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8Ğ¯—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(´èÆÀüÿÿÿÿ8Ğ¯—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÃÊàßÿÿÿÿÿ8Ğ¯—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¿ä·Åúÿÿÿÿ8Ğ¯—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8Ğ¯—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±Ï«§şÿÿÿÿ8Ğ¯—Ì,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¡éÕçÿÿÿÿÿ8Ğ¯—Ì,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(œİ¥8Ğ¯—Ì,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(İÕœÑ8Ğ¯—Ì,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(®¡şÔ8Ğ¯—Ì,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(àîÚ¥úÿÿÿÿ8Ğ¯—Ì,
+‹squid:S1488"jImmediately return this expression instead of assigning it to the temporary variable "drawableResourceId".(è‚êøÿÿÿÿ8Ğ¯—Ì,
+Esquid:S1905")Remove this unnecessary cast to "String".(Æë³8Ğ¯—Ì,
+Esquid:S1905")Remove this unnecessary cast to "String".(Æë³8Ğ¯—Ì,
+Esquid:S1905")Remove this unnecessary cast to "String".(Æë³8Ğ¯—Ì,
+Esquid:S1905")Remove this unnecessary cast to "String".(Æë³8Ğ¯—Ì,
+Esquid:S1905")Remove this unnecessary cast to "String".(Æë³8Ğ¯—Ì,
+Esquid:S1905")Remove this unnecessary cast to "String".(Æë³8Ğ¯—Ì,
+Qsquid:S1481"0Remove this unused "numPingPref" local variable.(¼üÖÿÿÿÿÿ8Ğ¯—Ì,
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(³ƒŠÎÿÿÿÿÿ8Ğ¯—Ì,
+osquid:S3776"SRefactor this method to reduce its Cognitive Complexity from 218 to the 15 allowed.(‰¢¼8Ğ¯—Ì,
+Jsquid:S2140")Use "java.util.Random.nextInt()" instead.(Êëåşÿÿÿÿ8Ğ¯—Ì,
+Esquid:S2140")Use "java.util.Random.nextInt()" instead.(É­¬Ğ8Ğ¯—Ì,
+Jsquid:S2140")Use "java.util.Random.nextInt()" instead.(£’åÄøÿÿÿÿ8Ğ¯—Ì,
+Esquid:S2140")Use "java.util.Random.nextInt()" instead.(†ÿñŞ8Ğ¯—Ì,
+Esquid:S2140")Use "java.util.Random.nextInt()" instead.(Ïàı½8Ğ¯—Ì,
+Esquid:S2140")Use "java.util.Random.nextInt()" instead.(ìÚô¯8Ğ¯—Ì,
+`squid:S1854"?Remove this useless assignment to local variable "numPingPref".(¼üÖÿÿÿÿÿ8Ğ¯—Ì,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ğ¯—Ì,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ğ¯—Ì,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ğ¯—Ì,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ğ¯—Ì,

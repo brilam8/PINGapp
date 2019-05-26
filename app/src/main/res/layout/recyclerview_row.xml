@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:maxHeight="200dp"
+    android:minHeight="125dp"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/serverName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="0dp"
+        android:layout_weight="0.5"
+
+        android:background="#c1525252"
+        android:fontFamily="@font/trade_winds"
+        android:gravity="center"
+        android:minHeight="25dp"
+        android:padding="0dp"
+        android:textColor="@color/pink_400"
+        android:textSize="25sp"
+        android:textStyle="bold|italic"
+        android:autoSizeMaxTextSize="60dp"
+        android:autoSizeMinTextSize="13dp"
+        android:autoSizeStepGranularity="1dp"/>
+
+    <TextView
+        android:id="@+id/pingResults"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="0dp"
+        android:layout_weight="0.7"
+
+        android:background="#c1525252"
+        android:fontFamily="monospace"
+        android:gravity="top|center_horizontal|center"
+        android:minHeight="25dp"
+        android:paddingTop="3dp"
+        android:textColor="#40ec6b"
+        android:textSize="20sp"
+        android:autoSizeMaxTextSize="60dp"
+        android:autoSizeMinTextSize="13dp"
+        android:autoSizeStepGranularity="1dp"/>
+
+</LinearLayout>
