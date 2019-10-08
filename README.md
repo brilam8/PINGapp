@@ -6,11 +6,11 @@ An Android application, developed using Java and published on the Google Play St
 Put together using Android Studio.
 Incorporates butterknife to ease field and method binding of GUI elements.
 
-##Import
+## Import
 Want to import this app into Android Studio?
 $Go to Android Studio --> Check out project from Version Control
 $Choose Github and fill in all the fields
 You're done!
 
-##Misc.
+## Misc.
 Built and developed by Brian Lam in the summer of 2018
