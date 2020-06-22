@@ -7,9 +7,9 @@ Incorporates butterknife to ease field and method binding of GUI elements.
 
 ## Import
 Want to import this app into Android Studio?
-$ Go to Android Studio --> Check out project from Version Control
-$ Choose Github and fill in all the fields
-You're done!
+
+1. Go to Android Studio --> Check out project from Version Control
+2. Choose Github and fill in all the fields
 
 ## Misc.
-Built and developed by Brian Lam in the summer of 2018
+Built and developed by Brian Lam
