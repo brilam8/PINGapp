@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Welcome to PING!
+<p align="center" >
+    <img width="200" height="200" src="assets/web_hi_res_512.png" alt="ad">
+</p>
+PING! is a network analyzer in the form of an Android application, developed and released to the public on the Google Play Store in the summer of 2018. Within its first month, PING! garnered over 100+ active users and now contains over 600+ active users today.
 
-You can use the [editor on GitHub](https://github.com/brilam8/PINGapp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+PING! is no longer being maintained as of 2019 but will forever remain one of the stepping stones of my programming career.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Function
+PING! was entirely built and designed from the ground up as a network analyzer, with specific tabs to analyze your connection to certain servers around the world that games used. PING! takes advantage of existing Android software and returns the results of "pings" sent from your Android phone to a destination server.
 
-### Markdown
+<p align="center" >
+    <img style="padding:5px" width="200" height="400" src="assets/pingAd2.webp" alt="ad">
+    <img style="padding:5px" width="200" height="400" src="assets/pingAd1.webp" alt="ad">
+    <img style="padding:5px" width="200" height="400" src="assets/pingAd3.webp" alt="ad">
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+By scrolling through the navigation bar at the top of the application, you can view specific games' servers around the world to analyze your connection to, or alternatively, check your connection to a server that you specify.
 
-```markdown
-Syntax highlighted code block
+There is also a settings tab where you can configure the number of pings sent before results are displayed as well as adjusting the backgrounds of each tab.
 
-# Header 1
-## Header 2
-### Header 3
+## Development
+I developed PING! using Android Studio as an IDE, and Java as the programming language (as was usual for Android applications). Android Studio uses Gradle, an advanced built toolkit, to automate and manage the build process for the Android application, which greatly streamlined product testing and development.
 
-- Bulleted
-- List
+However, due to my lack of experience with Android Studio and software development in general in high school, the codebase quickly became difficult to work with and I had to update/refactor many portions of my code to make it more efficient for user accessibility.
 
-1. Numbered
-2. List
+## What did I take away?
+Being one of my first major projects in programming - one that would be accessible to the public, PING! taught me a great amount about software development, mobile application development, and marketing.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brilam8/PINGapp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In addition, PING! further strengthened the importance of building a clean codebase from the get-go. Especially in an object-oriented language like Java, where using objects can greatly improve the readability and efficiency of your code.

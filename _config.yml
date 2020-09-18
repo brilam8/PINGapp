@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+title: PING!
+description: A multi-purpose Discord bot that once served 50+ users over numerous Discord servers.
+baseurl: /PINGapp
