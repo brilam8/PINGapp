@@ -4,7 +4,7 @@
 </p>
 PING! is a network analyzer in the form of an Android application, developed and released to the public on the Google Play Store in the summer of 2018. Within its first month, PING! garnered over 100+ active users and now contains over 600+ active users today.
 
-PING! is no longer being maintained as of 2019 but will forever remain one of the stepping stones of my programming career.
+I built PING! using **Android Studio** and **Java**. PING! is no longer being maintained as of 2019 but will forever remain one of the stepping stones of my programming career.
 
 ## Function
 PING! was entirely built and designed from the ground up as a network analyzer, with specific tabs to analyze your connection to certain servers around the world that games used. PING! takes advantage of existing Android software and returns the results of "pings" sent from your Android phone to a destination server.
