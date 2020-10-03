@@ -391,7 +391,7 @@ public class PingCheck extends AppCompatActivity implements MyRecyclerViewAdapte
         for (int i = 0; i < layout.getChildCount(); i++) {
             View v = layout.getChildAt(i);
             if (v instanceof ImageButton) {
-                v.setBackgroundColor(Color.TRANSPARENT);
+                v.setBackgroundColor(Color.GREEN);
                 //validate your EditText here
             } else if (v instanceof RadioButton) {
                 //validate RadioButton
