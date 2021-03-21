@@ -24,4 +24,4 @@ Want to download this application and use it on your Android device?
 If you want to find out more about the application, visit its documentation [here](https://www.lambrian.me/PINGapp/)
 
 ## License
-Copyright (c) 2019-2020 Brian Lam
+MIT License (c) 2019-2020 Brian Lam
