@@ -2,26 +2,6 @@ apply plugin: 'com.android.application'
 apply plugin: 'io.fabric'
 
 android {
-    signingConfigs {
-        config {
-            keyAlias 'DefaultAndroidKey'
-            keyPassword 'Pokemon13'
-            storeFile file('C:/Users/Brian/AndroidStudioProjects/keystores/android.jks')
-            storePassword 'Gamer4life'
-        }
-        paidConfig {
-            keyAlias 'PaidAndroidKey'
-            keyPassword 'Pokemon13'
-            storeFile file('C:/Users/Brian/AndroidStudioProjects/keystores/android.jks')
-            storePassword 'Gamer4life'
-        }
-        freeConfig {
-            keyAlias 'FreeAndroidKey'
-            keyPassword 'Pokemon13'
-            storeFile file('C:/Users/Brian/AndroidStudioProjects/keystores/android.jks')
-            storePassword 'Gamer4life'
-        }
-    }
     compileSdkVersion 28
     defaultConfig {
         applicationId "com.bigboiapps.brian.pingchecker"
